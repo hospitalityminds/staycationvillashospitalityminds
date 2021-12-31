@@ -1,0 +1,13 @@
+/* Add here all your CSS customizations */
+.text-center {
+	padding-top:5px;
+}
+.btn-outline {
+	border-width: 2px !important;
+    border-radius: 50px !important;
+}
+
+/* BOOKING FILTER */
+html {
+	font-size: 100% !important;
+}
