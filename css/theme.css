@@ -10,7 +10,25 @@ html {
 	font-size: 100%;
 	margin: 0 !important;
 }
+#esko{display: flex;
+	justify-content: center;
+	padding-left: 2rem;
+	font-size: 20px;
+	background-color: lavender;
+	color: #000;
+	font-weight: 600;
 
+
+}
+.ye2f{
+	list-style-position: inside;
+	margin: 20px;
+
+}
+.yef{
+	list-style-position: inside;
+	margin: 20px;
+}
 #cater h1{
 display: flex;
 justify-content: center;
@@ -18,12 +36,7 @@ font-weight: bold;
 color: #E67E32;
 margin-top: 1rem;
 }
-#cater .carka{
-	display: flex;
-	margin: auto;
-	margin-bottom:  2rem;
-	margin-top: 1rem;
-}
+
 
 
 body {
