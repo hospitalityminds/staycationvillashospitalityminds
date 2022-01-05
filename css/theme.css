@@ -11,7 +11,19 @@ html {
 	margin: 0 !important;
 }
 
-
+#cater h1{
+display: flex;
+justify-content: center;
+font-weight: bold;
+color: #E67E32;
+margin-top: 1rem;
+}
+#cater .carka{
+	display: flex;
+	margin: auto;
+	margin-bottom:  2rem;
+	margin-top: 1rem;
+}
 
 
 body {
